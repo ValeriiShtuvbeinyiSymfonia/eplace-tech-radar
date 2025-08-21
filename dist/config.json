@@ -1,0 +1,388 @@
+{
+  "date": "2025.08.20",
+  "quadrants": [
+    { "name": "Languages & Frameworks" },
+    { "name": "Platforms" },
+    { "name": "Techniques" },
+    { "name": "Tools" }
+  ],
+  "rings": [
+    { "name": "ADOPT", "color": "#5ba300" },
+    { "name": "TRIAL", "color": "#009eb0" },
+    { "name": "ASSESS", "color": "#c7ba00" },
+    { "name": "HOLD", "color": "#e09b96" }
+  ],
+  "entries": [
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": ".NET 9",
+      "active": true,
+      "moved": 1,
+      "link": "https://dotnet.microsoft.com/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "React",
+      "active": true,
+      "moved": 0,
+      "link": "https://reactjs.org/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "gRPC",
+      "active": true,
+      "moved": 0,
+      "link": "https://grpc.io/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "GraphQL",
+      "active": true,
+      "moved": 0,
+      "link": "https://graphql.org/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "HotChocolate",
+      "active": true,
+      "moved": 0,
+      "link": "https://chillicream.com/docs/hotchocolate"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Entity Framework Core",
+      "active": true,
+      "moved": 0,
+      "link": "https://docs.microsoft.com/en-us/ef/core/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "MediatR",
+      "active": true,
+      "moved": -1,
+      "link": "https://github.com/jbogard/MediatR"
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Autofac",
+      "active": true,
+      "moved": -1,
+      "link": "https://autofac.org/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "xUnit",
+      "active": true,
+      "moved": 0,
+      "link": "https://xunit.net/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "OpenTelemetry",
+      "active": true,
+      "moved": 1,
+      "link": "https://opentelemetry.io/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "NBomber",
+      "active": true,
+      "moved": 1,
+      "link": "https://nbomber.com/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Dapper",
+      "active": true,
+      "moved": 0,
+      "link": "https://dapperlib.github.io/Dapper/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "FluentValidation",
+      "active": true,
+      "moved": 0,
+      "link": "https://fluentvalidation.net/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Polly",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.thepollyproject.org/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Docker",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.docker.com/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "PostgreSQL",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.postgresql.org/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Azure DevOps",
+      "active": true,
+      "moved": 0,
+      "link": "https://azure.microsoft.com/en-us/services/devops/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "GitHub Actions",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/features/actions"
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Azure Key Vault",
+      "active": true,
+      "moved": 0,
+      "link": "https://azure.microsoft.com/en-us/services/key-vault/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Azure Blob Storage",
+      "active": true,
+      "moved": 0,
+      "link": "https://azure.microsoft.com/en-us/services/storage/blobs/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Azure Functions",
+      "active": true,
+      "moved": 1,
+      "link": "https://azure.microsoft.com/en-us/services/functions/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Azure Application Insights",
+      "active": false,
+      "moved": -1,
+      "link": "https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Modular Monolith",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.kamilgrzybek.com/blog/posts/modular-monolith-primer"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "CQRS",
+      "active": true,
+      "moved": 0,
+      "link": "https://martinfowler.com/bliki/CQRS.html"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Vertical Slice Architecture",
+      "active": true,
+      "moved": 0,
+      "link": "https://jimmybogard.com/vertical-slice-architecture/"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Domain-Driven Design",
+      "active": true,
+      "moved": 0,
+      "link": "https://domainlanguage.com/ddd/"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Transactional Outbox",
+      "active": true,
+      "moved": 0,
+      "link": "https://microservices.io/patterns/data/transactional-outbox.html"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Specification Pattern",
+      "active": true,
+      "moved": 0,
+      "link": "https://en.wikipedia.org/wiki/Specification_pattern"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Microservices Communication via gRPC",
+      "active": true,
+      "moved": 0,
+      "link": "https://grpc.io/docs/what-is-grpc/introduction/"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Integration Testing",
+      "active": true,
+      "moved": 0,
+      "link": "https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests"
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Load Testing",
+      "active": true,
+      "moved": 1,
+      "link": "https://nbomber.com/"
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "End-to-End Testing",
+      "active": true,
+      "moved": 1,
+      "link": "https://playwright.dev/"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Testcontainers",
+      "active": true,
+      "moved": 0,
+      "link": "https://testcontainers.org/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Visual Studio",
+      "active": true,
+      "moved": 0,
+      "link": "https://visualstudio.microsoft.com/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "JetBrains Rider",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.jetbrains.com/rider/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Visual Studio Code",
+      "active": true,
+      "moved": 0,
+      "link": "https://code.visualstudio.com/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "GitHub Copilot",
+      "active": true,
+      "moved": 0,
+      "link": "https://github.com/features/copilot"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Grafana",
+      "active": true,
+      "moved": 1,
+      "link": "https://grafana.com/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "OpenTelemetry Collector",
+      "active": true,
+      "moved": 1,
+      "link": "https://opentelemetry.io/docs/collector/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Dapr",
+      "active": true,
+      "moved": 1,
+      "link": "https://dapr.io/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": ".NET Aspire",
+      "active": true,
+      "moved": 1,
+      "link": "https://learn.microsoft.com/en-us/dotnet/aspire/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "SonarQube",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.sonarsource.com/products/sonarqube/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Trivy",
+      "active": true,
+      "moved": 0,
+      "link": "https://trivy.dev/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Prometheus",
+      "active": true,
+      "moved": 0,
+      "link": "https://prometheus.io/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Grafana IRM",
+      "active": true,
+      "moved": 1,
+      "link": "https://grafana.com/products/incident/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Hangfire",
+      "active": true,
+      "moved": -1,
+      "link": "https://www.hangfire.io/"
+    }
+  ],
+  "print_layout": true,
+  "links_in_new_tabs": true,
+  "title": "ePłace Technology Radar"
+}

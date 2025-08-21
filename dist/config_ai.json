@@ -1,0 +1,181 @@
+{
+  "date": "2025.08.20",
+  "entries": [
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "GitHub Copilot",
+      "active": true,
+      "moved": 0,
+      "link": "https://github.com/features/copilot"
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "JetBrains + Julie",
+      "active": true,
+      "moved": 1,
+      "link": "https://www.jetbrains.com/ai/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Cursor",
+      "active": true,
+      "moved": 1,
+      "link": "https://cursor.sh/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "GitHub Copilot Agent",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.blog/news-insights/product-news/github-copilot-workspace/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Claude Sonnet 4",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.anthropic.com/claude"
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "GPT-5",
+      "active": true,
+      "moved": 0,
+      "link": "https://openai.com/gpt-5"
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "AWS Bedrock",
+      "active": true,
+      "moved": 0,
+      "link": "https://aws.amazon.com/bedrock/"
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "GPT-4.0",
+      "active": false,
+      "moved": -1,
+      "link": "https://openai.com/gpt-4"
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "GPT-4.1",
+      "active": false,
+      "moved": -1,
+      "link": "https://openai.com/gpt-4"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "AWS Bedrock Agents",
+      "active": true,
+      "moved": 0,
+      "link": "https://aws.amazon.com/bedrock/agents/"
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "AWS Bedrock Knowledge Base",
+      "active": true,
+      "moved": 0,
+      "link": "https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html"
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Semantic Kernel (C#)",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/microsoft/semantic-kernel"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "AWS GuardRails",
+      "active": true,
+      "moved": 0,
+      "link": "https://aws.amazon.com/bedrock/guardrails/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "MCP Grafana",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/grafana/mcp-grafana"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "MCP Kubernetes",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/manusa/kubernetes-mcp-server"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "MCP Jira",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/atlassian/jira-mcp"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "MCP Azure DevOps",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/microsoft/azure-devops-mcp"
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "MCP AWS",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/awslabs/mcp"
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "MCP SonarQube",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/SonarSource/sonarqube-mcp-server"
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "MCP Terraform",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/hashicorp/terraform-mcp-server"
+    }
+  ],
+  "quadrants": [
+    { "name": "AI Development Tools & IDEs" },
+    { "name": "Models & Providers" },
+    { "name": "Agent Frameworks" },
+    { "name": "Integration Patterns" }
+  ],
+  "rings": [
+    { "name": "ADOPT", "color": "#5ba300" },
+    { "name": "TRIAL", "color": "#009eb0" },
+    { "name": "ASSESS", "color": "#c7ba00" },
+    { "name": "HOLD", "color": "#e09b96" }
+  ],
+  "print_layout": true,
+  "links_in_new_tabs": true,
+  "title": "AI Technology Radar",
+  "subtitle": "January 2025"
+}
