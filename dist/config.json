@@ -24,14 +24,6 @@
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "React",
-      "active": true,
-      "moved": 0,
-      "link": "https://reactjs.org/"
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
       "label": "gRPC",
       "active": true,
       "moved": 0,
@@ -380,6 +372,79 @@
       "active": true,
       "moved": -1,
       "link": "https://www.hangfire.io/"
+    },
+
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "React",
+      "active": true,
+      "moved": 0,
+      "link": "https://reactjs.org/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Apollo GraphQL",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.apollographql.com/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Vite.js",
+      "active": true,
+      "moved": 1,
+      "link": "https://vite.dev/"
+    },
+        {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Tailwind CSS",
+      "active": true,
+      "moved": 0,
+      "link": "https://tailwindcss.com/"
+    },
+        {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Zustand",
+      "active": true,
+      "moved": 0,
+      "link": "https://zustand-demo.pmnd.rs/"
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Typescript",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.typescriptlang.org/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Storybook",
+      "active": true,
+      "moved": 0,
+      "link": "https://storybook.js.org/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Knip",
+      "active": true,
+      "moved": 1,
+      "link": "https://knip.dev/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Madge",
+      "active": true,
+      "moved": 1,
+      "link": "https://github.com/pahen/madge"
     }
   ],
   "print_layout": true,
