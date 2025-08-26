@@ -390,10 +390,11 @@
       "moved": 0,
       "link": "https://www.apollographql.com/"
     },
+    
     {
-      "quadrant": 0,
+      "quadrant": 3,
       "ring": 0,
-      "label": "Vite.js",
+      "label": "Vite",
       "active": true,
       "moved": 1,
       "link": "https://vite.dev/"
@@ -445,6 +446,38 @@
       "active": true,
       "moved": 1,
       "link": "https://github.com/pahen/madge"
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Playwright",
+      "active": true,
+      "moved": 0,
+      "link": "https://playwright.dev/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Vitest",
+      "active": true,
+      "moved": 1,
+      "link": "https://vitest.dev/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Jest",
+      "active": true,
+      "moved": -1,
+      "link": "https://jestjs.io/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Webpack",
+      "active": true,
+      "moved": -1,
+      "link": "https://webpack.js.org/"
     }
   ],
   "print_layout": true,
