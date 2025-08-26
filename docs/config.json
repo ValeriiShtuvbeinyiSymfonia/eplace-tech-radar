@@ -14,6 +14,14 @@
   ],
   "entries": [
     {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Kubernetes",
+      "active": true,
+      "moved": 0,
+      "link": "https://kubernetes.io/"
+    },
+    {
       "quadrant": 0,
       "ring": 0,
       "label": ".NET 9",
@@ -270,6 +278,14 @@
       "link": "https://testcontainers.org/"
     },
     {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "ADR (Architecture Decision Records)",
+      "active": true,
+      "moved": 0,
+      "link": "https://adr.github.io/"
+    },
+    {
       "quadrant": 3,
       "ring": 0,
       "label": "Visual Studio",
@@ -477,6 +493,22 @@
       "active": true,
       "moved": -1,
       "link": "https://webpack.js.org/"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Banana Cake Pop",
+      "active": true,
+      "moved": 0,
+      "link": "https://chillicream.com/docs/bananacakepop"
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "JsReport",
+      "active": true,
+      "moved": 0,
+      "link": "https://jsreport.net/"
     }
   ],
   "print_layout": true,
